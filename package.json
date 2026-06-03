@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-microsoft-todo",
+  "version": "0.1.0",
+  "description": "Microsoft To Do (Microsoft 365) MCP Pack",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "microsoft-todo"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-microsoft-todo"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
