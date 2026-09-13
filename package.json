@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-microsoft-todo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Microsoft To Do (Microsoft 365) MCP Pack",
   "type": "module",
   "main": "src/index.ts",
