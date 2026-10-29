@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/microsoft-todo",
   "title": "Microsoft Todo",
   "description": "Microsoft To Do (Microsoft 365) MCP Pack",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/microsoft-todo",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-microsoft-todo",
