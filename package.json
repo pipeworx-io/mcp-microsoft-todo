@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-microsoft-todo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Microsoft To Do (Microsoft 365) MCP Pack",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "microsoft-todo",
     "gatewaySlug": "microsoft_todo",
-    "sourceHash": "v1-54207ae23aa1e079c8458d66c805e7c6390039838a4f9f6a03a8b0d8a157d190",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-d739902b0115e1bb3377aa97b2bb543c943a9abfb1387e4e242461857a1142c7",
+    "sourceCommit": "56cf550e46fed96c0101a3877ccaf8357eecf016"
   }
 }
